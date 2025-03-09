@@ -1,0 +1,148 @@
+# Copyright (C) 2023 Sazid Kabir
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Posts Widget Pro 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/posts-widget-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-20T12:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: posts-widget-pro\n"
+
+#. Plugin Name of the plugin
+msgid "Posts Widget Pro"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://example.com/posts-widget-pro"
+msgstr ""
+
+#. Description of the plugin
+msgid "A powerful widget to display recent posts with advanced sorting, filtering, and display options."
+msgstr ""
+
+#. Author of the plugin
+msgid "Sazid Kabir"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/sazid1007"
+msgstr ""
+
+#: class-posts-widget-pro.php:24
+msgid "Display recent posts with advanced sorting and filtering options."
+msgstr ""
+
+#: class-posts-widget-pro.php:37
+msgid "Recent Posts"
+msgstr ""
+
+#: class-posts-widget-pro.php:70
+msgid "Title:"
+msgstr ""
+
+#: class-posts-widget-pro.php:83
+msgid "Number of posts to show:"
+msgstr ""
+
+#: class-posts-widget-pro.php:101
+msgid "Sort by:"
+msgstr ""
+
+#: class-posts-widget-pro.php:109
+msgid "Date"
+msgstr ""
+
+#: class-posts-widget-pro.php:112
+msgid "Alphabetically"
+msgstr ""
+
+#: class-posts-widget-pro.php:115
+msgid "Comment Count"
+msgstr ""
+
+#: class-posts-widget-pro.php:118
+msgid "Random"
+msgstr ""
+
+#: class-posts-widget-pro.php:127
+msgid "Sort order:"
+msgstr ""
+
+#: class-posts-widget-pro.php:135
+msgid "Descending"
+msgstr ""
+
+#: class-posts-widget-pro.php:138
+msgid "Ascending"
+msgstr ""
+
+#: class-posts-widget-pro.php:147
+msgid "Filter by categories:"
+msgstr ""
+
+#: class-posts-widget-pro.php:162
+msgid "Hold Ctrl/Cmd to select multiple categories"
+msgstr ""
+
+#: class-posts-widget-pro.php:169
+msgid "Filter by tags:"
+msgstr ""
+
+#: class-posts-widget-pro.php:184
+msgid "Hold Ctrl/Cmd to select multiple tags"
+msgstr ""
+
+#: class-posts-widget-pro.php:197
+msgid "Show post date"
+msgstr ""
+
+#: class-posts-widget-pro.php:210
+msgid "Show post author"
+msgstr ""
+
+#: class-posts-widget-pro.php:223
+msgid "Show post categories"
+msgstr ""
+
+#: class-posts-widget-pro.php:236
+msgid "Show post thumbnail"
+msgstr ""
+
+#: class-posts-widget-pro.php:244
+msgid "Thumbnail size:"
+msgstr ""
+
+#: class-posts-widget-pro.php:252
+msgid "Thumbnail"
+msgstr ""
+
+#: class-posts-widget-pro.php:255
+msgid "Medium"
+msgstr ""
+
+#: class-posts-widget-pro.php:258
+msgid "Large"
+msgstr ""
+
+#: class-posts-widget-pro.php:273
+msgid "Exclude current post"
+msgstr ""
+
+#: class-posts-widget-pro.php:385
+msgid "Default thumbnail"
+msgstr ""
+
+#: class-posts-widget-pro.php:408
+msgid "by"
+msgstr ""
+
+#: class-posts-widget-pro.php:437
+msgid "No posts found."
+msgstr ""
+
